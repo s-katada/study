@@ -1,0 +1,9 @@
+#+title: オレオレ証明書
+#+author: s-katada
+#+date: 2023-09-18
+#+STARTUP: indent
+#+STARTUP: fold
+
+* TODO 公開鍵と秘密鍵の仕組みをガチで理解する
+* TODO httpsの証明書を発行してみる(オレオレ証明書)
+* TODO docker + nginxでwebサーバーを立ててhttps通信してみる

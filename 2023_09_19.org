@@ -1,0 +1,12 @@
+#+STARTUP: indent
+#+STARTUP: fold
+
+* DONE wwwがURLにつく時とつかないとき
+- サブドメインに ~www~ がついているかついていないかの違い
+- wwwはworld wirde webの略でインターネットに公開しているかを意味する
+- 現在はほとんどのURLがインターネット公開を前提に作られているのでURLにwwwをつける必要性があまりない
+- 習慣的にサブドメインとして ~www~ を付けている
+* DONE open interpreterについて調べる
+- code interpreter(Chat GPTの機能)をオープンソースにしたやつ
+- 自然言語でコードの作成・実行をしてくれる
+- pythonでインスコする
